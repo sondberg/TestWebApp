@@ -21,3 +21,5 @@ Using GitHub secrets
 DOCKERHUB_USERNAME
 DOCKERHUB_TOKEN
 ```
+<h2>Git branching strategy</h2>
+The default branch is main and is push protected ia policy.
