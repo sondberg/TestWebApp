@@ -16,3 +16,8 @@ My Docker Hub repositories can be found here:
 ```
 https://hub.docker.com/u/sondberg
 ```
+Using GitHub secrets
+```
+DOCKERHUB_USERNAME
+DOCKERHUB_TOKEN
+```
